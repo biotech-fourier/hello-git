@@ -1,2 +1,2 @@
 print("hola")
-print("editafffdo.. V2 login")
+print("editafffdo.. V2 desde main")
